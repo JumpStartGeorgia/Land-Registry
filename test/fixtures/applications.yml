@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reg_number: MyString
+  app_number: MyString
+  service_type: MyString
+  paid_amount: 1.5
+  reg_date: 2014-05-19 14:56:55
+  bank_info: MyString
+  paid_date: 2014-05-19 14:56:55
+  service_duration: MyString
+  property_address: MyString
+  cadastral_code: MyString
+  additional_info: MyText
+
+two:
+  reg_number: MyString
+  app_number: MyString
+  service_type: MyString
+  paid_amount: 1.5
+  reg_date: 2014-05-19 14:56:55
+  bank_info: MyString
+  paid_date: 2014-05-19 14:56:55
+  service_duration: MyString
+  property_address: MyString
+  cadastral_code: MyString
+  additional_info: MyText

@@ -17,3 +17,9 @@
 
 # Ignore database config file
 /config/database.yml
+
+# Ignore local ruby version
+.ruby-version
+
+# Ignore IDE related files
+/.idea
